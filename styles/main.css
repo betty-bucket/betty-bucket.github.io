@@ -1,5 +1,55 @@
 body {
-    background-color: antiquewhite;
+    margin: 0;
+    background-color: white;
     color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header {background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+    margin-top: 0px;
+    margin-right: 10px;
+    height: 60px;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 40px;
+    padding-top: 30px;
+}
+
+nav a {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercases;
+}
+
+nav a:hover {
+    color: pink;
+}
+
+.smaller-image {
+    width: 700px;
+}
+
+
+
+
+footer {
+    margin-bottom: 10px;
+    text-align: center;
 }
