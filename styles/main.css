@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 0px;
     background-color: white;
     color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -46,10 +46,26 @@ nav a:hover {
     width: 700px;
 }
 
-
+.button {
+    text-transform: uppercase;
+    font-weight: 500;
+}
 
 
 footer {
     margin-bottom: 10px;
     text-align: center;
+}
+
+.technical-blogs {
+    text-align: center;
+    list-style: none;
+}
+
+.core-blogs {
+    text-align: center;
+    list-style: none;
+}
+ul {
+    list-style: none;
 }
