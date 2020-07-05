@@ -46,6 +46,10 @@ nav a:hover {
     width: 700px;
 }
 
+.smallest-image {
+    width: 300px
+}
+
 .button {
     text-transform: uppercase;
     font-weight: 500;
