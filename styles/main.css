@@ -89,3 +89,5 @@ footer {
 ul {
     list-style: none;
 }
+
+/* use media queries to change the max width to suit viewers window size */
